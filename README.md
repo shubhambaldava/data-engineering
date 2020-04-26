@@ -1,8 +1,8 @@
 # DataEngineerChallenge
 
-How to run ? 
-Import project into eclipse
-Run MainLogAnalyser.java
+* How to run :
+* Import project into eclipse
+* Run MainLogAnalyser.java
 
 ## Output:
 
