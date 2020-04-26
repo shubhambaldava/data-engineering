@@ -3,6 +3,7 @@
 * How to run :
 * Import project into eclipse
 * Run MainLogAnalyser.java
+* (Might need to change to Java 1.8)
 
 ## Output:
 
